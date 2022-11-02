@@ -1,2 +1,1 @@
-hi by hary - stop
-feature1 is here
+hi by hary - stop 
